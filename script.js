@@ -1,3 +1,5 @@
+
+
 // Mandamos a llamar a los elmentos del HTML que se van a manipular
 var saludarUsario = document.getElementById('bienvenida'); 
 var mostrarResultados = document.getElementById('contenedorPrincipal');
